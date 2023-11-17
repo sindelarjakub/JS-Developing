@@ -75,7 +75,7 @@ tbody td:hover::before {
 /* xxs */
 @media (min-width: 325px) {
   table {
-    width: 300px;
+    width: 200px;
     font-size: small;
   }
 }
